@@ -14,13 +14,8 @@ Make sure you have [Python 3.x](https://www.python.org/downloads/) installed on 
     ```bash
     git clone https://github.com/PatrickDew/NocNoc.git
     ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd NocNoc
-    ```
-
-3. Install the required dependency:
+    
+2. Install the required dependency:
     ```bash
     pip install numpy
     ```
